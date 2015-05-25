@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomCopper.Web", "AtomCopper.Web\AtomCopper.Web.csproj", "{42D56B9A-EA6C-4699-AD18-93DC6E8E19B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomCopper.DataProvider", "AtomCopper.DataProvider\AtomCopper.DataProvider.csproj", "{405CF099-E23E-4F99-B766-B565B6FD9AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomCopper.DataProvider.SqlServer", "AtomCopper.DataProvider.SqlServer\AtomCopper.DataProvider.SqlServer.csproj", "{A233DC07-D84F-4C2C-852A-2E55D8BDC77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaBaEe.Core", "BaBaEe.Core\BaBaEe.Core.csproj", "{24DFB720-8A61-4B49-BA2E-E09436942ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomCopper.AtomProvider", "AtomCopper.AtomProvider\AtomCopper.AtomProvider.csproj", "{6DBAAEA8-E6AC-4211-89F8-5DCA34A32419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomCopper.Console", "AtomCopper.Console\AtomCopper.Console.csproj", "{D17B0C91-CE75-4757-B817-8EFF0FE47293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D56B9A-EA6C-4699-AD18-93DC6E8E19B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D56B9A-EA6C-4699-AD18-93DC6E8E19B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D56B9A-EA6C-4699-AD18-93DC6E8E19B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D56B9A-EA6C-4699-AD18-93DC6E8E19B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405CF099-E23E-4F99-B766-B565B6FD9AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405CF099-E23E-4F99-B766-B565B6FD9AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405CF099-E23E-4F99-B766-B565B6FD9AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405CF099-E23E-4F99-B766-B565B6FD9AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A233DC07-D84F-4C2C-852A-2E55D8BDC77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A233DC07-D84F-4C2C-852A-2E55D8BDC77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A233DC07-D84F-4C2C-852A-2E55D8BDC77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A233DC07-D84F-4C2C-852A-2E55D8BDC77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DFB720-8A61-4B49-BA2E-E09436942ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DFB720-8A61-4B49-BA2E-E09436942ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DFB720-8A61-4B49-BA2E-E09436942ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DFB720-8A61-4B49-BA2E-E09436942ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DBAAEA8-E6AC-4211-89F8-5DCA34A32419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBAAEA8-E6AC-4211-89F8-5DCA34A32419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBAAEA8-E6AC-4211-89F8-5DCA34A32419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBAAEA8-E6AC-4211-89F8-5DCA34A32419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17B0C91-CE75-4757-B817-8EFF0FE47293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17B0C91-CE75-4757-B817-8EFF0FE47293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17B0C91-CE75-4757-B817-8EFF0FE47293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17B0C91-CE75-4757-B817-8EFF0FE47293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
